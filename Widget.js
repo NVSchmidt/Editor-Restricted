@@ -195,6 +195,7 @@ define([
 			}));
 		}
 		 else{
+			 //TODO: Change email address/warning for specific implementation
 			current_window.statusNode.innerHTML = "<h4>You do not have permissions to edit this application. If you believe this is incorrect, please contact ABC@def.ghi</h4>";
 			current_window.editWidgetTitle.innerHTML = "";
 		 }
