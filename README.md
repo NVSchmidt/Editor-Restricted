@@ -1,2 +1,3 @@
 # Editor-Restricted
-Editor Widget for ArcGIS Web Appbuilder with limited access.
+ArcGIS Web Appbuilder editor widget with limitations on which users can access the tool in a given application.
+
